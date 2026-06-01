@@ -6,7 +6,7 @@ The project is currently in its initial public release. Security fixes will targ
 
 ## Reporting a Vulnerability
 
-Please open a private security advisory on GitHub or email the maintainer at `greendhy@gmail.com`.
+Please open a private security advisory on GitHub.
 
 Helpful reports include:
 
@@ -26,4 +26,3 @@ Security-sensitive areas include:
 - Future CI or API integrations
 
 This tool is a review assistant. It does not replace manual review or a professional smart contract audit.
-
