@@ -1,0 +1,21 @@
+{
+  "name": "solidity-scope-auditor",
+  "version": "0.1.0",
+  "description": "A dependency-free CLI that summarizes Solidity repositories for open source maintainers and security reviewers.",
+  "type": "module",
+  "bin": {
+    "solidity-scope-auditor": "./bin/solidity-scope-auditor.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "solidity",
+    "security",
+    "audit",
+    "maintenance",
+    "open-source"
+  ],
+  "license": "MIT"
+}
+
